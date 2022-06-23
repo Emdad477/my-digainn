@@ -1,0 +1,14 @@
+.header-area {
+    margin: 20px;
+    text-align: center;
+    background: red;
+}
+h1 {
+    font-size: 36px;
+    color: #000;
+}
+.header-area:hover h1{
+    background: #000;
+    transition: 0.5s;
+    color: #fff;
+}
